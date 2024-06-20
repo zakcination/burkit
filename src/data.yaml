@@ -1,0 +1,10 @@
+path: ../datasets/RDD2022
+train: train.txt
+val: val.txt
+test: test1_images
+nc: 4
+names:
+- longitudinal cracks
+- transverse cracks
+- alligator cracks
+- potholes

@@ -1,0 +1,10 @@
+{
+    "DATA_DIR": "/dataset/RDD2022",
+    "TRAIN_DATA_CLEAN_PATH": "/datasets/RDD2022/train.txt",
+    "ANNOTATIONS_DIR": "/datasets/RDD2022/annotations.txt",
+    "VAL_DATA_CLEAN_PATH": "/datasets/RDD2022/val.txt",
+    "TEST_DATA_CLEAN_DIR": "datasets/RDD2022/test1_images",
+    "LOGS_DIR": "/logs/",
+    "MODEL_DIR": "runs/detect/train/weights/best.pt",
+    "SUBMISSION_DIR": "submissions/"
+}
